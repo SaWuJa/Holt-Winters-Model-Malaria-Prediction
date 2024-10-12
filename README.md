@@ -1,2 +1,2 @@
 # Holt-Winters-Model-Malaria-Prediction
-This repository contains code and methodology for predicting malaria cases using the Holt-Winter’s Model
+This repository contains code and methodology for predicting malaria cases using the Holt-Winter’s Model. The dataset consists of monthly malaria cases, and the analysis includes data preprocessing, feature engineering, and normalization. The model captures trends and seasonality in malaria incidence, providing forecasts for future cases. Evaluation metrics such as MAE, RMSE, MAPE, and MASE are used to assess model performance. Residual analysis is conducted to ensure the robustness of the model. 
